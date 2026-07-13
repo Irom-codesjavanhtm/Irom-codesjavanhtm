@@ -9,9 +9,11 @@ I am a Software Engineer from Kone Lone Shin Myanmar, focused on building full-s
 
 | Category | Technologies |
 | :--- | :--- |
+| **Frameworks** | Laravel, Flutter, Next.js |
 | **Backend & Database** | Supabase (Database, Edge Functions, Logs) |
-| **Authentication** | WorkOS |
-| **Web Development** | PHP, Dart, HTML5, CSS3, Bootstrap |
+| **Authentication** | WorkOS, Clerk, Auth0, Kinde, Firebase Auth |
+| **Web Development** | PHP, Dart, Bootstrap, Tailwind, Sass, Java, C# |
+| **Tools** | Git, Docker, VS Code, Postman |
 
 ---
 
