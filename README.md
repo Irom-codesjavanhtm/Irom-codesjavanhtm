@@ -1,31 +1,28 @@
-<img src="https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/Wazzup.png" alt="WAZZUP" height="70"/>
+# Bhone Myat San
+*Software Engineer | Full Stack Developer*
 
-I'm Bhone, a software engineer from Myanmar.
+I am a Software Engineer from Kone Lone Shin Myanmar, focused on building full-stack applications and business automation tools. I am currently completing a Bachelor of Software Engineering at Taylor's University of Malaysia.
 
-I am mainly interested in producing full stack applications and currently working as a software engineer at Kone Lone Shin.
-📌 also a student studying for Bachelors of Software Engineering at Monash University.
-
-## 🛠️ Technical Expertise
-
-### Languages & Technologies
-<div align="center">
-  <img src="https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/assets/HTML.jpg" alt="HTML5" height="50"/>
-  <img src="https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/assets/CSS.jpg" alt="CSS3" height="50"/>
-  <img src="https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/assets/Dart.jpg" alt="Dart" height="50"/>
-  <img src="https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/assets/BOOTSTRAP.jpg" alt="Bootstrap" height="50"/>
-  <img src="https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/assets/MySQL.svg.jpg" alt="MySQL" height="50"/>
-  <img src="https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/assets/PHP.jpg" alt="PHP" height="50"/>
-</div>
-
-## 🚀 What I Do
-- Develop scalable web applications
-- Create user-centric interfaces
-- Design and implement database architectures
-- Build robust backend systems
-- Craft business automation solutions
-
-Let's connect!
 ---
-<div align="center">
-  <i>Building the future, one line of code at a time.</i>
-</div>
+
+### **Technical Skills**
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & Database** | Supabase (Database, Edge Functions, Logs) |
+| **Authentication** | WorkOS |
+| **Web Development** | PHP, Dart, HTML5, CSS3, Bootstrap |
+
+---
+
+### **Experience & Focus**
+I love building and maintaining web-based and application software systems, plus I practice on structuring data architectures and backend service logic. Using AI and machine learning, I do enjoy creating useful business tools that later helps to automate and streamline business workflows easier and faster. 
+
+---
+
+### **Contact**
+* **GitHub:** [github.com/Irom-codesjavanhtm](https://github.com/Irom-codesjavanhtm)
+* **Website:** [bhonecodes.dev](https://bhonecodes.dev)
+* **Location:** Myanmar
+
+> *Building software systems, one line at a time.*
